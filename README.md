@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @unxok
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning HTML, CSS, and Javascript
+- 👋 Heyo, I’m @unxok
+- 👀 Junior Dev that doesn't have much to show publically unfortunately
+- 🌱 Currently interested in web dev tech like React/Next
 - 📫 You can reach me at admin@unxok.com
 
 <!---
