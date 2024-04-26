@@ -1,5 +1,5 @@
 - 👋 Heyo, I’m @unxok
-- 👀 Junior Dev that doesn't have much to show publically unfortunately
+- 👀 Just a junior dev working on some projects
 - 🌱 Currently interested in web dev tech like React/Next
 - 📫 You can reach me at admin@unxok.com
 
